@@ -1,0 +1,11 @@
+package designPattern;
+
+public class Duck {
+	
+	QuackBehavior quackBehavior;
+	
+	public void performQuack(){
+		
+	}
+
+}
